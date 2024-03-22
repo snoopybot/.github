@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://extron.netlify.app" >
-        <img align="center" src="https://extronbot.github.io/docs/icon-light.png" height="420px">
+        <img align="center" src="https://extronbot.github.io/docs/icon-light.png" height="420px" width="120px">
     </a>
 </p>
 
