@@ -1,1 +1,1 @@
-### <img align="center" src="https://snoopybot.netlify.app/banner/icon-light.png" width="92px" height="24px"> is a quality music bot which makes you to feel the music and its beats. It supports Spotify, Youtube & more!
+### <img align="center" src="https://snoopybot.netlify.app/logo/favicon.ico" width="92px" height="24px"> Snoopy is a quality music bot which makes you to feel the music and its beats. It supports Spotify, Youtube & more!
